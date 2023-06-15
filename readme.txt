@@ -1,4 +1,2 @@
-JAVA MINI PROJECT ON CALCULATOR
-Christ Deemed to be university - Lavasa, Pune
-Contribution UI Designed by - Pritha mitra (21122045)
-Source code - Jolinson Richi A (21122030), Batulla Srinivas Reddy (21122014)
+## JAVA MINI PROJECT ON CALCULATOR
+ A mini Java project based on a calculator and scientific calculation options. Accompanied by Preetha mithra and Srinivas 
